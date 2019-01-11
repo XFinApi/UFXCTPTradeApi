@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UFXCTPTradeApiSimpleDemoCSharpCore2017", "UFXCTPTradeApiSimpleDemoCSharpCore2017.csproj", "{E80F20F8-89C1-41EE-9B48-9305D1EA6DBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E80F20F8-89C1-41EE-9B48-9305D1EA6DBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E80F20F8-89C1-41EE-9B48-9305D1EA6DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E80F20F8-89C1-41EE-9B48-9305D1EA6DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E80F20F8-89C1-41EE-9B48-9305D1EA6DBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA7BDAC9-A157-48F2-88EE-0B7DD11BCF86}
+	EndGlobalSection
+EndGlobal
